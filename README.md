@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ben10082008
+- 👋 Hi, I’m @Ben
 - 👀 I’m interested in Programming lots of different things
 - 🌱 I’m currently learning Flutter for App programming
 
